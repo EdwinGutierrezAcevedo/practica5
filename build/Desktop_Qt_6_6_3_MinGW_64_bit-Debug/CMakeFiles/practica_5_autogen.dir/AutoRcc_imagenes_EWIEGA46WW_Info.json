@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/practica_5_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/practica_5_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/bomber-man-destacada.jpg",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanAlado1.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/pared_gris.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanArriba2.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanAbajo2.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanArriba1.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanAbajo1.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBomberman.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/fondo.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanAlado2.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanOtrolado2.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/spriteBombermanOtrolado1.png",
+		"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imgs/.xdp-personaje_2.png-eruQLf"
+	],
+	"LOCK_FILE" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5_autogen.dir/AutoRcc_imagenes_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "imagenes" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_imagenes.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5_autogen.dir/AutoRcc_imagenes_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/imagenes.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

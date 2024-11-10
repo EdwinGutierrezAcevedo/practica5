@@ -1,0 +1,9 @@
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/practica_5.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/edit_cache.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/list_install_components.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/local.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/strip.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/practica_5_autogen_timestamp_deps.dir
+/home/craljimenez/Documents/UdeA/Laboratorios_C_plus_plus/desarrollos_Cristian/practica_5_caj/practica_5/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/practica_5_autogen.dir

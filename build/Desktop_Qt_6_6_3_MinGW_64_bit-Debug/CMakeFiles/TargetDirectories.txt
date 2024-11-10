@@ -1,0 +1,9 @@
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5_autogen_timestamp_deps.dir
+C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5_autogen.dir
