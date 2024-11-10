@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bloqueDestruido.png</file>
+        <file>bomber-man-destacada.jpg</file>
+        <file>enemigo1.png</file>
+        <file>enemigo2.png</file>
+        <file>enemigoDestruido.png</file>
+        <file>estela.png</file>
+        <file>explosion.png</file>
+        <file>fondo.png</file>
+        <file>mejora.png</file>
+        <file>puerta.png</file>
+        <file>spriteBomberman.png</file>
+        <file>spriteBombermanAbajo.png</file>
+        <file>spriteBombermanAbajo1.png</file>
+        <file>spriteBombermanAbajo2.png</file>
+        <file>spriteBombermanAlado1.png</file>
+        <file>spriteBombermanAlado2.png</file>
+        <file>spriteBombermanArriba1.png</file>
+        <file>spriteBombermanArriba2.png</file>
+        <file>spriteBombermanOtrolado1.png</file>
+        <file>spriteBombermanOtrolado2.png</file>
+        <file>bomba1.png</file>
+        <file>bomba2.png</file>
+        <file>bloque.png</file>
+    </qresource>
+</RCC>

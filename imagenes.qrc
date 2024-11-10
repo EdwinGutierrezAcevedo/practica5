@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/.xdp-personaje_2.png-eruQLf</file>
+        <file>imgs/pared_gris.png</file>
+        <file>imgs/fondo.png</file>
+        <file>imgs/bomber-man-destacada.jpg</file>
+        <file>imgs/spriteBombermanAbajo1.png</file>
+        <file>imgs/spriteBombermanAbajo2.png</file>
+        <file>imgs/spriteBombermanAlado2.png</file>
+        <file>imgs/spriteBombermanOtrolado1.png</file>
+        <file>imgs/spriteBombermanOtrolado2.png</file>
+        <file>imgs/spriteBomberman.png</file>
+        <file>imgs/spriteBombermanAlado1.png</file>
+        <file>imgs/spriteBombermanArriba1.png</file>
+        <file>imgs/spriteBombermanArriba2.png</file>
+    </qresource>
+</RCC>
