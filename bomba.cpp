@@ -19,7 +19,12 @@ Bomba::Bomba(QPointF posicion, QGraphicsScene* scene) : scene(scene), usandoSpri
     spritePuerta->setOpacity(0);
     spritePuerta->setData(0,"puerta");
     scene->addItem(spritePuerta);
-
+    QPixmap mejora(":/new/prefix1/mejora.png");
+    spriteMejora = new QGraphicsPixmapItem(mejora.scaled(40, 40, Qt::KeepAspectRatio));
+    spriteMejora->setPos(760, 440); // Establecer la posición de la puerta
+    spriteMejora->setOpacity(0);
+    spriteMejora->setData(0,"mejora");
+    scene->addItem(spriteMejora);
     temporizador = new QTimer(this);
     connect(temporizador, &QTimer::timeout, this, &Bomba::alternarSprite);
     temporizador->start(500);  // Cambiar sprite cada 500 ms
@@ -81,7 +86,11 @@ void Bomba::explotar() {
             spritePuerta->setOpacity(1); // Hacer visible la puerta
 
 
-        }
+        }if (item->data(0).toString() == "muroMejora") {
+            qDebug() << "La explosión ha colisionado con la mejora";
+            scene->removeItem(item);
+            //item->setOpacity(0); // Hacer invisible el muro
+            spriteMejora->setOpacity(1); // Hacer visible la mejora
     }
 
     // Hacer la bomba invisible y eliminar sus colisiones

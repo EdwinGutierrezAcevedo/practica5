@@ -21,6 +21,7 @@ private:
     QPixmap spriteExplosion;  // Imagen de la explosión
     QPixmap spriteDestruccionEnemigo;
     QGraphicsPixmapItem* spritePuerta;
+    QGraphicsPixmapItem* spriteMejora;
     QTimer* temporizador;  // Temporizador para alternar los sprites y para la explosión
     QGraphicsScene* scene;  // Referencia a la escena
     bool usandoSprite1;  // Controla cuál sprite está usando la bomba

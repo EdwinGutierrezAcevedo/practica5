@@ -124,6 +124,8 @@ void Personaje::keyPressEvent(QKeyEvent* event) {
             qDebug() << "El personaje ha colisionado con la puerta visible. Cerrando el juego...";
             QApplication::quit(); // Cerrar el juego
         }
+
+            //spriteExplosion = sprite.scaled(200, 200, Qt::KeepAspectRatio);
     }
 
     // Si colisiona con una pared, revertir el movimiento
