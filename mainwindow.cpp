@@ -219,4 +219,8 @@ void MainWindow::crearEscena() {
     QGraphicsRectItem* muroConPuerta = scene->addRect(920, 480, 40, 40);
     muroConPuerta->setBrush(QBrush(QPixmap(":/new/prefix1/bloque.png").scaled(40, 40, Qt::KeepAspectRatio)));
     muroConPuerta->setData(0, "muroPuerta");
+
+    QGraphicsRectItem* muroConMejora = scene->addRect(760, 440, 40, 40);
+    muroConMejora->setBrush(QBrush(QPixmap(":/new/prefix1/bloque.png").scaled(40, 40, Qt::KeepAspectRatio)));
+    muroConMejora->setData(0, "muroMejora");
 }
