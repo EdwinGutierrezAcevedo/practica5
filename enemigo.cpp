@@ -36,9 +36,13 @@ void enemigo::moverX() {
     bool colisionConPared = false;
 
     for (QGraphicsItem* item : colisiones) {
-        if (item->data(0).toString() == "pared"||item->data(0).toString() == "muro") {
+        if (item->data(0).toString() == "pared"||item->data(0).toString() == "muro"||item->data(0).toString() == "bomba") {
             colisionConPared = true;
             break;
+        }
+        if (Personaje* personaje = dynamic_cast<Personaje*>(item)) {
+            personaje->setMuerto();
+            return; // Terminar el movimiento del enemigo
         }
     }
 
@@ -74,9 +78,14 @@ void enemigo::moverY() {
     bool colisionConPared = false;
 
     for (QGraphicsItem* item : colisiones) {
-        if (item->data(0).toString() == "pared"||item->data(0).toString() == "muro") {
+        if (item->data(0).toString() == "pared"||item->data(0).toString() == "muro"||item->data(0).toString() == "bomba") {
             colisionConPared = true;
             break;
+
+        }
+        if (Personaje* personaje = dynamic_cast<Personaje*>(item)) {
+            personaje->setMuerto();
+            return; // Terminar el movimiento del enemigo
         }
     }
 

@@ -16,15 +16,18 @@ QT_END_NAMESPACE
 
 class MainWindow : public QMainWindow
 {
+
     Q_OBJECT
 
 public:
     MainWindow(QWidget *parent = nullptr); // Constructor
     ~MainWindow(); // Destructor
 
+
 private:
     Ui::MainWindow *ui;
     QGraphicsScene* scene;   // La escena que se va a construir
+
     QTimer* timer;  // Temporizador para mover el enemigo
     void crearEscena();  // Método para configurar la escena y agregar las paredes
     void crearBloques(QGraphicsScene* scene, const QPixmap& texturaBloques);

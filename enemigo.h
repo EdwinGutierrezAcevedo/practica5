@@ -3,6 +3,7 @@
 
 #include <QGraphicsPixmapItem>
 #include <QPixmap>
+#include "personaje.h"
 
 class enemigo : public QGraphicsPixmapItem {
 public:

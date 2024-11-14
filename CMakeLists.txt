@@ -17,8 +17,8 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
-        imgs/personaje_1.png
-        imgs/personaje_2.png
+
+
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
@@ -28,6 +28,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         personaje.h personaje.cpp
         imgs/imgs.qrc
         enemigo.h enemigo.cpp
+        bomba.h bomba.cpp
 
     )
 # Define target properties for Android with Qt 6 as:
