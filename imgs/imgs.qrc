@@ -6,7 +6,6 @@
         <file>enemigo2.png</file>
         <file>enemigoDestruido.png</file>
         <file>estela.png</file>
-        <file>explosion.png</file>
         <file>fondo.png</file>
         <file>mejora.png</file>
         <file>puerta.png</file>
@@ -23,5 +22,12 @@
         <file>bomba1.png</file>
         <file>bomba2.png</file>
         <file>bloque.png</file>
+        <file>spriteBombermanMuerto.png</file>
+        <file>explosion.png</file>
+        <file>explosionAbajo.png</file>
+        <file>explosionArriba.png</file>
+        <file>explosionCentro.png</file>
+        <file>explosionDerecha.png</file>
+        <file>explosionIzquierda.png</file>
     </qresource>
 </RCC>
