@@ -55,7 +55,18 @@ MainWindow::MainWindow(QWidget *parent)
     enemigo2->setPos(40, 420);
     scene->addItem(enemigo2);
     enemigo2->setData(0, "enemigo");
-
+    enemigo* enemigo3 = new enemigo();
+    enemigo3->setPos(400, 360);
+    scene->addItem(enemigo3);
+    enemigo3->setData(0, "enemigo");
+    enemigo* enemigo4 = new enemigo();
+    enemigo4->setPos(600, 360);
+    scene->addItem(enemigo4);
+    enemigo4->setData(0, "enemigo");
+    enemigo* enemigo5 = new enemigo();
+    enemigo5->setPos(840, 360);
+    scene->addItem(enemigo5);
+    enemigo5->setData(0, "enemigo");
     // Crear y configurar el temporizador para mover el enemigo
     QTimer* timer = new QTimer(this);
     timer->start(10);
@@ -65,6 +76,15 @@ MainWindow::MainWindow(QWidget *parent)
     });
     QObject::connect(timer, &QTimer::timeout, [enemigo2]() {
         enemigo2->moverY();
+    });
+    QObject::connect(timer, &QTimer::timeout, [enemigo3]() {
+        enemigo3->moverX();
+    });
+    QObject::connect(timer, &QTimer::timeout, [enemigo4]() {
+        enemigo4->moverY();
+    });
+    QObject::connect(timer, &QTimer::timeout, [enemigo5]() {
+        enemigo5->moverY();
     });
 }
 
