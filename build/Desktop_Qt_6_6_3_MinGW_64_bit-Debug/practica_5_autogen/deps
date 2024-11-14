@@ -1,4 +1,5 @@
 practica_5_autogen/timestamp: \
+	C:/Qt/6.6.3/mingw_64/include/QtCore/QObject \
 	C:/Qt/6.6.3/mingw_64/include/QtCore/QTimer \
 	C:/Qt/6.6.3/mingw_64/include/QtCore/q20functional.h \
 	C:/Qt/6.6.3/mingw_64/include/QtCore/q20memory.h \
@@ -117,6 +118,7 @@ practica_5_autogen/timestamp: \
 	C:/Qt/6.6.3/mingw_64/include/QtCore/qxptype_traits.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/QBrush \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/QPainter \
+	C:/Qt/6.6.3/mingw_64/include/QtGui/QPixmap \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qaction.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qbitmap.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qbrush.h \
@@ -130,6 +132,7 @@ practica_5_autogen/timestamp: \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qkeysequence.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qpaintdevice.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qpainter.h \
+	C:/Qt/6.6.3/mingw_64/include/QtGui/qpainterpath.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qpalette.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qpen.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qpixelformat.h \
@@ -145,11 +148,13 @@ practica_5_autogen/timestamp: \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qtransform.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs.h \
 	C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs_win.h \
+	C:/Qt/6.6.3/mingw_64/include/QtWidgets/QGraphicsPixmapItem \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/QGraphicsScene \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/QGraphicsView \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/QMainWindow \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qabstractscrollarea.h \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qframe.h \
+	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qgraphicsitem.h \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qgraphicsscene.h \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qgraphicsview.h \
 	C:/Qt/6.6.3/mingw_64/include/QtWidgets/qmainwindow.h \
@@ -559,6 +564,8 @@ practica_5_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/CMakeLists.txt \
+	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/bomba.cpp \
+	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/bomba.h \
 	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
 	C:/Users/Edwin\ Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \

@@ -298,6 +298,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/bomba.h",
+			"MU",
+			"EWIEGA46WW/moc_bomba.cpp",
+			null
+		],
+		[
 			"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/enemigo.h",
 			"MU",
 			"EWIEGA46WW/moc_enemigo.cpp",
@@ -386,6 +392,11 @@
 	"SETTINGS_FILE" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/practica_5_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/bomba.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica5/Parctica_5/practica_5_caj/practica_5/enemigo.cpp",
 			"MU",
